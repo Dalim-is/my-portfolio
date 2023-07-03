@@ -18,7 +18,7 @@ const Contact = () => {
           <p className="text-gray-300 py-4">
             {" "}
             Submit the form below or shoot me an email -
-            vutukuri.kumar192st.niituniversity.in
+            mdiqbalhasandalim4@gmai.com
           </p>
         </div>
         <input
